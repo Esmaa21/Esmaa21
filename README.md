@@ -1,16 +1,16 @@
-## Hi there 👋
+# Esma Gökmen
 
-<!--
-**Esmaa21/Esmaa21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, ich bin Esma. Ich studiere Data and Information Science an der TH Köln
+und besuche aktuell den Kurs Data Integration.
 
-Here are some ideas to get you started:
+## Was ich gerade lerne
+- Grundlagen des Data Integration
+- Arbeiten mit Git und GitHub
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Themen, die mich interessieren
+- Datenanalyse
+- Informationswissenschaft
+
+## Links
+- [Kurs-Repository](https://github.com/breuert/data-integration)
+- [TH Köln](https://www.th-koeln.de)
